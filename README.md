@@ -1,2 +1,2 @@
-# karnaa.github.io
+# karna-a.github.io
 Personal Website
